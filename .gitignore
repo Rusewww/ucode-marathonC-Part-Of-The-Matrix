@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+a.out
+*.out
+cmake-build-debug
+CMakeLists.txt
+agent.h
+obj
+*.a
+part_of_the_matrix
+src/mx_itoa.c
+src/mx_str_reverse.c
